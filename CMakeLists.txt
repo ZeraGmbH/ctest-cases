@@ -22,3 +22,5 @@ endif()
 if(TEST_PASS)
     add_subdirectory(pass)
 endif()
+
+add_subdirectory(no-test)
